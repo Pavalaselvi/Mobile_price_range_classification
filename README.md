@@ -42,4 +42,6 @@ px_height: Pixel Resolution Height
 2(high cost) and 3(very high cost).
 
 BRIEF DESCRIPTION :
-In this project
+In this Project,I have coded in such a way that first handled the null values in the dataset and after removing it , splited the data into training and test data.Then applied the following models on the training dataset and generated the predicted value for the test dataset. a) Logistic Regression b) KNN Classification  c) SVM Classifier with linear and rbf kernel then predicted the price range for test data for the test data and computed the confusion matrix and classification report for each of these models.
+
+
